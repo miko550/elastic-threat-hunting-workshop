@@ -25,3 +25,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 python3 ingest <dateset.ndjson>
 ```
+## Access elastic and start hunting
+1. Open browser and navigate to http://<IP>:5601
+2. Use Credential elastic:elastic@hunter2025
